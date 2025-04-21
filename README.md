@@ -19,4 +19,4 @@ I'm a Full Stack Developer Intern at Xdezo Technologies, passionate about creati
 
 ## 📫 Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/gurung-yuvraj-6a2044199/]
-- Email: yubrajgg2057@example.com
+- Email: yubrajgg2057@gmail.com
