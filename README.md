@@ -1,16 +1,23 @@
 ## Hi there 👋
+## 🛠️ Skills
+- **Backend**: Django, Python, Django REST Framework
+- **Databases**: PostgreSQL, SQLite
+- **Frontend**: HTML, Tailwind CSS, React
+- **Tools**: Git, VS Code
 
-<!--
-**Yubrajgg/Yubrajgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+# Pokhara Fight Club Admin
+A Django-based gym management system for coaches and members, featuring payment integration and custom dashboards.
+## ✨ Features
+- User authentication (coach, member, admin roles)
+- Goal assignment and tracking
+- Payment integration with Khalti
+- Responsive dashboards with Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Django, Python
+- PostgreSQL
+- Tailwind CSS, Unfold
+- Khalti Payment Gateway
