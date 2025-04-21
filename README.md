@@ -12,6 +12,8 @@ I'm a Full Stack Developer Intern at Xdezo Technologies, passionate about creati
 - **Frontend**: HTML, Tailwind CSS, React
 - **Tools**: Git, Docker
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yubrajgg&theme=radical&layout=compact)
+
 ## 🏆 Featured Projects
 - [Pokhara Fight Club Admin]: Gym management system with Khalti payments.
 - [Todo App](https://github.com/Yubrajgg/todo-app): Task manager with Django REST APIs and React.
