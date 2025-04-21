@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yubrajgg&show_icons=true&theme=radical)
 
-# Pokhara Fight Club Admin
+# Pokhara Fight Club 
 A Django-based gym management system for coaches and members, featuring payment integration and custom dashboards.
 ## ✨ Features
 - User authentication (coach, member, admin roles)
