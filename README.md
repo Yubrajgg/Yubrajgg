@@ -18,5 +18,5 @@ I'm a Full Stack Developer Intern at Xdezo Technologies, passionate about creati
 - [Movie-App]
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/gurung-yuvraj-6a2044199/]
+- Email: yubrajgg2057@example.com
