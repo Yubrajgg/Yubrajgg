@@ -3,8 +3,6 @@
 
 I'm a Full Stack Developer Intern at Xdezo Technologies, passionate about creating robust web applications with Django and Python. I specialize in REST APIs, custom admin dashboards (like Pokhara Fight Club), and integrating payment gateways like Khalti.
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yubrajgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🛠️ Skills
 - **Backend**: Django, Python, Django REST Framework
